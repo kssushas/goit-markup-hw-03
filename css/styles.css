@@ -87,6 +87,7 @@ body {
 .header-container{
     display: flex;
     align-items: center;
+    margin: 0 auto;
 }
 .header-navigation{
     display: flex;
@@ -289,9 +290,6 @@ border: 1px solid #E7E9FC;
 border-top:none;
     padding: 32px 16px;
 }
-
-
-
 
 /*----------FEATURE SECTION-------- */
 
