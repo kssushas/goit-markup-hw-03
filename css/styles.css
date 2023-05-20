@@ -24,8 +24,8 @@
 }
 
 .container{
-    margin: 0 auto;
     width: 1158px;
+    margin: 0 auto;
     padding: 0 15px;
 }
 
@@ -89,7 +89,6 @@ body {
 }
 
 .header-container{
-    width: 1158px;
     display: flex;
     align-items: center;
     margin: 0 auto;
