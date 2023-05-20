@@ -29,7 +29,9 @@
     padding: 0 15px;
 }
 
-.section, header, footer{
+.section,
+header,
+footer {
     padding: 0 156px;
 }
 
@@ -79,7 +81,7 @@ body {
     font-family: 'Roboto', sans-serif;
     color: var(--textlink-color);
     background-color: var(--hero-bkgrd-color);
-   width: 1440px;
+    
 }
 
 /* ------HEADER------ */
