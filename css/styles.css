@@ -28,14 +28,17 @@
     width: 1158px;
     padding: 0 15px;
 }
+
 .section, header, footer{
     padding: 0 156px;
 }
+
 img{
     display: block;
     max-width: 100%;
      height: auto;
 }
+
 .visually-hidden{
     position: absolute;
         width: 1px;
@@ -84,15 +87,18 @@ body {
 .header {
     border-bottom: 1px solid var(--border-color);
 }
+
 .header-container{
     display: flex;
     align-items: center;
     margin: 0 auto;
 }
+
 .header-navigation{
     display: flex;
 align-items: center;
 }
+
 .header-list{
     display: flex;
     gap: 40px;
